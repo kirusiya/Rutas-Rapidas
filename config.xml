@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.pushwoosh.demoapp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Rutas Rápidas</name>
+    <description>
+         Rutas Rápidas aplicacion para servicio de taxis, motos y entrega a domicilio
+    </description>
+    <author email="edward@ajamba.org" href="http://ajamba.org">
+        Pushwoosh
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    
+    <preference name="orientation" value="portrait" />
+    <preference name="target-device" value="universal" />
+    <preference name="fullscreen" value="false" />
+
+</widget>
